@@ -1,4 +1,5 @@
 # Math4340
 
-Documents for course MATH4340: Numerical Methods for Differential Equations
+Documents for UW course 
+MATH4340: Numerical Methods for Differential Equations
 
